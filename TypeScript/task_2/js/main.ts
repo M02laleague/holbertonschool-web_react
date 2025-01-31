@@ -104,4 +104,5 @@ interface StudentConstructor {
   // Vérification
   console.log(teachClass("Math"));    // Teaching Math
   console.log(teachClass("History")); // Teaching History
-  
+  console.log("Test : script chargé");
+document.body.innerHTML = "<h1>Bonjour, monde !</h1>";
